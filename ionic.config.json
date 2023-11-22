@@ -1,0 +1,7 @@
+{
+  "name": "tutorial_project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
