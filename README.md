@@ -1,5 +1,7 @@
 # IONIC_tutorial_project
 
+For this project, make sure you have Node.js installed.
+
 To run the project just for the web open the project folder and run the following commands:
 ```
   npm install
