@@ -9,6 +9,7 @@ To then run it on android run the following commands:
 ```
   ionic build
   ionic cap add android
+  ionic cap open android
   ionic cap run android -l --external
 ```
   
